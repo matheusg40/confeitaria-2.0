@@ -1,7 +1,7 @@
 @charset "UTF-8";
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;900&display=swap");
 header {
-  background: #FFC107;
+  background: #dda2df;
   padding: 25px;
 }
 header form input[type=text] {
@@ -71,7 +71,7 @@ nav.nav-produtos ul.nav li ul.nav {
   top: 44px;
   left: 0px;
   background: #343A40;
-  border-top: solid #FFC107 10px;
+  border-top: solid #dda2df 10px;
   width: 100%;
 }
 nav.nav-produtos ul.nav li ul.nav li {
@@ -135,7 +135,7 @@ nav.nav-produtos ul.nav li ul.nav li {
   font-size: 10px;
 }
 .produtos .produtos-container .produtos-itens .produtos-stars svg {
-  fill: #FFC107;
+  fill: #ffc107;
 }
 .produtos .produtos-container .produtos-itens .produtos-preco {
   font-size: 16px;
@@ -152,7 +152,7 @@ nav.nav-produtos ul.nav li ul.nav li {
   font-size: 16px;
 }
 .produtos-compra .produtos-preco .produtos-stars svg {
-  fill: #FFC107;
+  fill: #dda2df;
 }
 .produtos-compra .produtos-preco strong {
   font-size: 40px;
@@ -179,7 +179,7 @@ footer a:hover {
   color: #FFF;
 }
 footer h4 {
-  color: #FFC107;
+  color: #dda2df;
   font-size: 19px;
 }
 footer ul li.ellipsis {
@@ -226,7 +226,7 @@ footer ul li.ellipsis {
   --pink:#e83e8c;
   --red:#dc3545;
   --orange:#fd7e14;
-  --yellow:#ffc107;
+  --yellow:#dda2df;
   --green:#28a745;
   --teal:#20c997;
   --cyan:#17a2b8;
@@ -237,7 +237,7 @@ footer ul li.ellipsis {
   --secondary:#6c757d;
   --success:#28a745;
   --info:#17a2b8;
-  --warning:#ffc107;
+  --warning:#dda2df;
   --danger:#dc3545;
   --light:#f8f9fa;
   --dark:#343a40;
@@ -2988,8 +2988,8 @@ a.btn.disabled, fieldset:disabled a.btn {
 
 .btn-warning {
   color: #212529;
-  background-color: #ffc107;
-  border-color: #ffc107;
+  background-color: #dda2df;
+  border-color: #dda2df;
 }
 
 .btn-warning:hover {
@@ -3007,8 +3007,8 @@ a.btn.disabled, fieldset:disabled a.btn {
 
 .btn-warning.disabled, .btn-warning:disabled {
   color: #212529;
-  background-color: #ffc107;
-  border-color: #ffc107;
+  background-color: #dda2df;
+  border-color: #dda2df;
 }
 
 .btn-warning:not(:disabled):not(.disabled).active, .btn-warning:not(:disabled):not(.disabled):active, .show > .btn-warning.dropdown-toggle {
@@ -3247,14 +3247,14 @@ a.btn.disabled, fieldset:disabled a.btn {
 }
 
 .btn-outline-warning {
-  color: #ffc107;
-  border-color: #ffc107;
+  color: #dda2df;
+  border-color: #dda2df;
 }
 
 .btn-outline-warning:hover {
   color: #212529;
-  background-color: #ffc107;
-  border-color: #ffc107;
+  background-color: #dda2df;
+  border-color: #dda2df;
 }
 
 .btn-outline-warning.focus, .btn-outline-warning:focus {
